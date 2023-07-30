@@ -1,0 +1,3 @@
+Vaishnavi,100,A
+Pratap,101,A
+Rushi,Tale,A
